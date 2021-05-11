@@ -1,2 +1,2 @@
-# Penguin-Roller
-Penguin Roller Game Written in C#
+# ZigZag_Game
+ZigZag_Game Written in C#
